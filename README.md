@@ -114,7 +114,7 @@ let contents = get_base_path()
 ```
 
 As a clearer example, consider the syntax required to apply multiple free
-funtions without `let`-bindings looks like this:
+functions without `let`-bindings looks like this:
 
 ```rust
 let val = last(
